@@ -48,7 +48,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI@205.134.180.150:443#BangHer
 vmess://eyJhZGQiOiAicHJveHkuY2MtbGEuMTUyNjE4Lnh5eiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMjBmZWQ2NDUtNjE5Yy00Y2ExLWMwMGUtNzQzZWE4YTNiNTFmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi82YzhlNWExYiIsICJwb3J0IjogIjM4ODQ4IiwgInBzIjogIkJhbmdIZXJBc3MtVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.143.66.87:6697#BangHerAss-US 🇺🇸
 vmess://eyJhZGQiOiAiMTk4LjIuMjE4LjEwMCIsICJhaWQiOiAiNjQiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDE0MDAiLCAicHMiOiAiQmFuZ0hlckFzcy1VUyBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
-vless://f4859fc9-dc44-11ee-b9ba-00505603e70d@92.222.181.77:80BangHerAss-FR 🇫🇷
+vless://f4859fc9-dc44-11ee-b9ba-00505603e70d@92.222.181.77:80#BangHerAss-FR 🇫🇷
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@195.154.169.198:989#BangHerAss-FR 🇫🇷
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@195.154.185.174:989#BangHerAss-FR 🇫🇷
 ss://YWVzLTI1Ni1jZmI6MjE3MGY4@45.55.2.232:14293#BangHerAss-US 🇺🇸
@@ -64,8 +64,8 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.143.66.87:7001#BangHerAss-US 🇺�
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.143.66.87:8000#BangHerAss-US 🇺🇸
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.143.66.87:5500#BangHerAss-US 🇺🇸
 ss://YWVzLTI1Ni1jZmI6ZjBmNWEwZDY1ODZmY2U0Mg@193.163.203.16:276#BangHerAss-RU 🇷🇺
-vless://2e3bb27c-ab28-4ddb-9e33-7c5874b4d25a@95.141.205.39:7557BangHerAss-RU 🇷🇺
-vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@95.173.180.34:443BangHerAss-TR 🇹🇷
+vless://2e3bb27c-ab28-4ddb-9e33-7c5874b4d25a@95.141.205.39:7557#BangHerAss-RU 🇷🇺
+vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@95.173.180.34:443#BangHerAss-TR 🇹🇷
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.123.101.241:989#BangHerAss-TR 🇹🇷
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@102.219.177.35:989#BangHerAss-TN 🇹🇳
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@179.27.200.28:989#BangHerAss-UY 🇺🇾
@@ -88,25 +88,25 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.156.137.67:989#BangHerAss-KZ �
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.186.142.4:989#BangHerAss-PA 🇵🇦
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.163.218.2:989#BangHerAss-VN 🇻🇳
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989#BangHerAss-IS 🇮🇸
-vless://7af0cefc-ab80-4701-a9fe-67dfddc2a0f7@135.125.244.42:1210BangHerAss-DE 🇩🇪
-vless://f8bb4ae1-2358-4a76-ab75-2a6bc94272d6@pscresearch.faculty.ucdavis.edu:443BangHerAss-US 🇺🇸
+vless://7af0cefc-ab80-4701-a9fe-67dfddc2a0f7@135.125.244.42:1210#BangHerAss-DE 🇩🇪
+vless://f8bb4ae1-2358-4a76-ab75-2a6bc94272d6@pscresearch.faculty.ucdavis.edu:443#BangHerAss-US 🇺🇸
 vmess://eyJhZGQiOiAiMTkzLjE2MC4xMzAuMjAxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImhtczAzLmRvbmdmZW5nLmNmZCIsICJpZCI6ICJmYTViNTVjZC1jYWZjLTRkZTAtYTRjOC03MjJlMDJhOWY1OGUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJCYW5nSGVyQXNzLUZSIFx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmNyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiaG1zMDMuZG9uZ2ZlbmcuY2ZkIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
-vless://f988794c-cdb2-4842-b604-06e65cf6d040@172.67.140.179:8443BangHerAss-US 🇺🇸
-vless://7af0cefc-ab80-4701-a9fe-67dfddc2a0f7@ns7.esfahansiman.com:2030BangHerAss-DE 🇩🇪
-vless://7af0cefc-ab80-4701-a9fe-67dfddc2a0f7@ns8.esfahansiman.com:1210BangHerAss-DE 🇩🇪
-vless://b06868d8-90b5-4d1e-b2c8-e09840bc7f1f@213.176.66.228:37021BangHerAss-FR 🇫🇷
-vless://398da7d5-aecd-4dd7-a754-df63c4a52d37@217.69.5.175:2096BangHerAss-FR 🇫🇷
-vless://136eca2f-1015-4597-ac3a-10e6371be571@radiance1.madaktoo98.sbs:55672BangHerAss-IR 🇮🇷
-vless://9e54e7c3-35c9-48fc-afb6-f680c1b28925@bestco.bestshop10.ir:40240BangHerAss-FI 🇫🇮
+vless://f988794c-cdb2-4842-b604-06e65cf6d040@172.67.140.179:8443#BangHerAss-US 🇺🇸
+vless://7af0cefc-ab80-4701-a9fe-67dfddc2a0f7@ns7.esfahansiman.com:2030#BangHerAss-DE 🇩🇪
+vless://7af0cefc-ab80-4701-a9fe-67dfddc2a0f7@ns8.esfahansiman.com:1210#BangHerAss-DE 🇩🇪
+vless://b06868d8-90b5-4d1e-b2c8-e09840bc7f1f@213.176.66.228:37021#BangHerAss-FR 🇫🇷
+vless://398da7d5-aecd-4dd7-a754-df63c4a52d37@217.69.5.175:2096#BangHerAss-FR 🇫🇷
+vless://136eca2f-1015-4597-ac3a-10e6371be571@radiance1.madaktoo98.sbs:55672#BangHerAss-IR 🇮🇷
+vless://9e54e7c3-35c9-48fc-afb6-f680c1b28925@bestco.bestshop10.ir:40240#BangHerAss-FI 🇫🇮
 vmess://eyJhZGQiOiAid3d3LnBhcnN2ZHMuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIk9mRmVSLk1pckFjbGVzdE9SeS50T1AuIiwgImlkIjogIjM5ZThiNzgzLWIzNzgtNDc4OS05ODEzLWQxYjQ5YWYxMWRhMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMjA4NyIsICJwcyI6ICJCYW5nSGVyQXNzLVVTIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiT2ZGZVIuTWlyQWNsZXN0T1J5LnRPUC4iLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
-vless://f4cf5881-2770-4106-add0-4fcd9fc3c01f@188.245.198.226:564BangHerAss-DE 🇩🇪
+vless://f4cf5881-2770-4106-add0-4fcd9fc3c01f@188.245.198.226:564#BangHerAss-DE 🇩🇪
 ss://YWVzLTI1Ni1jZmI6UVdERHZWRTlucE51clFmQQ@217.30.10.18:9026#BangHerAss-PL 🇵🇱
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@23.92.127.133:989#BangHerAss-IE 🇮🇪
 ss://YWVzLTI1Ni1jZmI6MjE2YTM5YzJhYzg1MjdkMg@217.114.7.77:633#BangHerAss-RU 🇷🇺
-vless://f988794c-cdb2-4842-b604-06e65cf6d040@159.112.235.199:8443BangHerAss-US 🇺🇸
-vless://f988794c-cdb2-4842-b604-06e65cf6d040@154.83.2.212:8443BangHerAss-SC 🇸🇨
-vless://68d0f3df-6af0-4fca-82df-5b2ea11cd942@162.159.153.2:2082BangHerAss-US 🇺🇸
-vless://f8901952-9d56-410e-8bde-3382746ece13@81.19.141.149:2093BangHerAss-DE 🇩🇪
-vless://247d64a5-a9ca-44f3-afe8-af329647cbe3@146.19.170.113:443BangHerAss-PL 🇵🇱
-vless://dbc34aa9-3cb1-477a-c47d-998f8badf0e8@176.98.41.45:13509BangHerAss-TR 🇹🇷
-vless://9b50f568-e48f-46da-9015-d349ba4c3b74@93.127.216.76:2020BangHerAss-US 🇺🇸
+vless://f988794c-cdb2-4842-b604-06e65cf6d040@159.112.235.199:8443#BangHerAss-US 🇺🇸
+vless://f988794c-cdb2-4842-b604-06e65cf6d040@154.83.2.212:8443#BangHerAss-SC 🇸🇨
+vless://68d0f3df-6af0-4fca-82df-5b2ea11cd942@162.159.153.2:2082#BangHerAss-US 🇺🇸
+vless://f8901952-9d56-410e-8bde-3382746ece13@81.19.141.149:2093#BangHerAss-DE 🇩🇪
+vless://247d64a5-a9ca-44f3-afe8-af329647cbe3@146.19.170.113:443#BangHerAss-PL 🇵🇱
+vless://dbc34aa9-3cb1-477a-c47d-998f8badf0e8@176.98.41.45:13509#BangHerAss-TR 🇹🇷
+vless://9b50f568-e48f-46da-9015-d349ba4c3b74@93.127.216.76:2020#BangHerAss-US 🇺🇸
